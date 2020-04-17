@@ -28,7 +28,7 @@
 		<repository>
 			<id>eclipse-2018-09</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/eclipse/updates/4.9/R-4.9-201809060745/</url>
+			<url>http://download.eclipse.org/eclipse/updates/4.15/R-4.15-202003050155/</url>
 		</repository>
 	</repositories>
 
