@@ -5,7 +5,7 @@
 
 	<groupId>name.abuchen.portfolio</groupId>
 	<artifactId>portfolio-deps</artifactId>
-	<version>1.3.2</version>
+	<version>1.4.0</version>
 	<packaging>pom</packaging>
 
 	<name>Portfolio Performance - Update Site with Dependencies</name>
@@ -26,9 +26,9 @@
 			<url>http://buchen.github.io/maven-repo</url>
 		</repository>
 		<repository>
-			<id>eclipse-2018-09</id>
+			<id>eclipse-2020-06</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/eclipse/updates/4.9/R-4.9-201809060745/</url>
+			<url>https://download.eclipse.org/eclipse/updates/4.16/R-4.16-202006040540/</url>
 		</repository>
 	</repositories>
 
