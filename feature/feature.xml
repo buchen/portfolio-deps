@@ -2,7 +2,7 @@
 <feature
       id="name.abuchen.portfolio.dependencies.feature"
       label="Portfolio Performance 3rd Party Dependencies"
-      version="1.5.0"
+      version="1.5.1"
       provider-name="Andreas Buchen">
 
     <plugin
@@ -140,6 +140,13 @@
 
    <plugin
          id="net.minidev.accessors-smart"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="javax.validation.api"
          download-size="0"
          install-size="0"
          version="0.0.0"
