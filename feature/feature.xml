@@ -2,7 +2,7 @@
 <feature
       id="name.abuchen.portfolio.dependencies.feature"
       label="Portfolio Performance 3rd Party Dependencies"
-      version="1.5.1"
+      version="1.5.2"
       provider-name="Andreas Buchen">
 
     <plugin
@@ -147,6 +147,13 @@
 
    <plugin
          id="javax.validation.api"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.google.protobuf"
          download-size="0"
          install-size="0"
          version="0.0.0"
