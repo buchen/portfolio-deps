@@ -16,7 +16,7 @@
 	</modules>
 
 	<properties>
-		<tycho-version>1.5.1</tycho-version>
+		<tycho-version>2.4.0</tycho-version>
 		<jarsigner.skip>true</jarsigner.skip>
 	</properties>
 
@@ -26,9 +26,9 @@
 			<url>http://buchen.github.io/maven-repo</url>
 		</repository>
 		<repository>
-			<id>eclipse-2020-12</id>
+			<id>eclipse-2021-09</id>
 			<layout>p2</layout>
-			<url>https://download.eclipse.org/eclipse/updates/4.18/R-4.18-202012021800/</url>
+			<url>https://download.eclipse.org/eclipse/updates/4.21/R-4.21-202109060500/</url>
 		</repository>
 	</repositories>
 
